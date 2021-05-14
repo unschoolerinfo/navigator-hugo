@@ -11,5 +11,11 @@ fields:
 - type: text
   name: description
   label: description
+- name: getstartedhomepage
+  type: include
+  config: {}
+  template: get-started
+  label: getstartedhomepage
+  description: test homepage for the get started guides
 pages:
 - exampleSite/content/get started/get-started.md
