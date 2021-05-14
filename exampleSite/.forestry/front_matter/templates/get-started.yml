@@ -17,5 +17,3 @@ fields:
   template: get-started
   label: getstartedhomepage
   description: test homepage for the get started guides
-pages:
-- exampleSite/content/get started/get-started.md
