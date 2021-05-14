@@ -12,3 +12,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- exampleSite/content/Get%20Started%202/get-started-unschooling.md
