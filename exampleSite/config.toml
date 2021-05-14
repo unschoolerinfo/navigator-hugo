@@ -122,6 +122,10 @@ author = "Themefisher"
 code = "en"
 description = "This is meta description"
 [[menu.nav]]
+name = "Get Started"
+url = "get started"
+weight = 6
+[[menu.nav]]
 name = "contact"
 url = "contact"
 weight = 5
