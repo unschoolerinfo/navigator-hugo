@@ -5,10 +5,9 @@ image: images/blog/post-3.jpg
 author: Chelle Snell
 description: This is meta description
 categories:
-- Tech Test
+- Get Started
 tags:
-- keyboard
-- Logitech
+- testtag
 
 ---
 ### Introduction
