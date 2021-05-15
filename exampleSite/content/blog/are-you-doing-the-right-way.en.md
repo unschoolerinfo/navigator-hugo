@@ -5,7 +5,7 @@ image: images/blog/post-3.jpg
 author: Chelle Snell
 description: This is meta description
 categories:
-- Get Started
+- Tech Intro
 tags:
 - testtag
 
