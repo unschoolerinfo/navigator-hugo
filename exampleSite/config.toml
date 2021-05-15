@@ -180,5 +180,5 @@ enable = true
 expire_days = 2
 [taxonomies]
 tag = "tags"
-category = "catgories"
+category = "categories"
 get started = "get-started"
