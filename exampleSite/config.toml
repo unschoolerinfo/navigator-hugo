@@ -178,3 +178,6 @@ logo = "images/logo.png"
 [params.cookies]
 enable = true
 expire_days = 2
+[taxonomies]
+tag = "tags"
+category = "catgories"
