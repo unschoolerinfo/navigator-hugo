@@ -14,12 +14,12 @@
                         </li>
                         <li class="list-inline-item">
                             <span>at</span>
-                            <span>{{ .Date.Format .Site.Params.dateFormat }}</span>                        
-                        <span>
+                            <span>{{ .Date.Format .Site.Params.dateFormat }}</span>   
+                        </li>
+                        <span>Posted In: </span>
       {{ range $idx, $category := .Params.categories }}
       {{- if ne $idx 0 }}, {{ end }}<a href="{{ "categories/" | relURL }}{{ $category | urlize }}">{{ $category }}</a>
       {{- end }}
-                            </span>
                     </li>
                     </ul>
                 </div>
