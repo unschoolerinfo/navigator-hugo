@@ -181,4 +181,5 @@ expire_days = 2
 [taxonomies]
 tag = "tags"
 category = "categories"
+Tech Intro ="tech-intro"
 
