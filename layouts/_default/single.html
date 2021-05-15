@@ -13,15 +13,14 @@
                             {{ .Params.author }}
                         </li>
                         <li class="list-inline-item">
-                            <span>at</span>
-                            <span>{{ .Date.Format .Site.Params.dateFormat }}</span>   
-                        </li>
-                        <span>Posted In: </span>
+                            <span>Posted In: </span>
       {{ range $idx, $category := .Params.categories }}
       {{- if ne $idx 0 }}, {{ end }}<a href="{{ "categories/" | relURL }}{{ $category | urlize }}">{{ $category }}</a>
       {{- end }}
-                    </li>
-                    </ul>
+                            <span>at</span>
+                            <span>{{ .Date.Format .Site.Params.dateFormat }}</span>   
+                        </li>
+                                            </ul>
                 </div>
                 {{ .Content }}
             </div>
