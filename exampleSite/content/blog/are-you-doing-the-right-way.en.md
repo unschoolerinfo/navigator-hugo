@@ -1,16 +1,16 @@
 ---
 title: Are You Doing the Right Way
-date: 2018-07-07T17:04:41+06:00
+date: 2018-07-07T17:04:41.000+06:00
 image: images/blog/post-3.jpg
-author: Admin
-description: "This is meta description"
+author: Chelle Snell
+description: This is meta description
 categories:
-- "Tech Test"
+- Tech Test
 tags:
-- "keyboard"
-- "Logitech"
----
+- keyboard
+- Logitech
 
+---
 ### Introduction
 
 This iintro is a test intro to test if the site is actually updating. For some reason I cannot get the tags or categories to display on the blog post. I included the markup for it, but they do not display when the website renders. Neither does the Get Started link in the menu.
