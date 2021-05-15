@@ -4,9 +4,10 @@ date: 2018-07-08T12:11:29.000+06:00
 image: images/blog/post-2.jpg
 author: Chelle Snell
 description: This is meta description
-categories: ["tech-intro"]
----
+categories:
+- tech-intro
 
+---
 ### Hopefully this will be the future Technology Page
 I like to start with taking a shower or a bath when getting ready for bed. I’ll always incorporate either Himalayan pink salt or Epsom salt into my routine. Then, I’ll do an in-shower meditation, just releasing my day and allowing it to wash down the drain. I like to start from the neck down to symbolize washing and removing anything, and then I go from the feet up after to symbolize recharging my energy.
 
