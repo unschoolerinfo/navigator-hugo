@@ -6,7 +6,6 @@ author: Arya Stark
 description: This is meta description
 
 ---
-\[categories = "tech-intro"\]
 
 ### A cleansing hot shower or bath
 
