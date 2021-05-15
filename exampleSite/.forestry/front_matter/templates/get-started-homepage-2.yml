@@ -9,7 +9,7 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: category
+- name: categories
   type: tag_list
   default: []
   label: Category
