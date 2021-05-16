@@ -181,5 +181,6 @@ expire_days = 2
 [taxonomies]
 tag = "tags"
 category = "categories"
+disableLanguages = ["fr"]
 
 
