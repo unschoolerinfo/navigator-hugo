@@ -178,7 +178,7 @@ logo = "images/logo.png"
 [params.cookies]
 enable = true
 expire_days = 2
-[taxonomies]
+[Languages.en.taxonomies]
 tag = "tags"
 category = "categories"
 disableLanguages = ["fr"]
