@@ -178,9 +178,10 @@ logo = "images/logo.png"
 [params.cookies]
 enable = true
 expire_days = 2
-[Languages.en.taxonomies]
+[taxonomies]
 tag = "tags"
 category = "categories"
 disableLanguages = ["fr"]
-
+[languages.en.Taxonomies]
+      gaming = "gaming"
 
