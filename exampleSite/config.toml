@@ -180,8 +180,7 @@ enable = true
 expire_days = 2
 [taxonomies]
 tag = "tags"
-category = "categories"
+category = "en/categories"
 disableLanguages = ["fr"]
-[languages.en.Taxonomies]
-      gaming = "gaming"
+
 
